@@ -1,3 +1,4 @@
+/* Diego Gabriel López Bernal */
 package muneca;
 
 import java.util.Stack;
